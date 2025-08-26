@@ -7,7 +7,7 @@ function App() {
 		<div>
 			<Banner />
 			<Cart />
-      <ShoppingList />
+      		<ShoppingList />
 		</div>
 	)
 }
