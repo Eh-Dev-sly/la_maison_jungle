@@ -1,4 +1,4 @@
-import { plantList } from '../datas/plantList'
+import { plantList } from '../datas/PlantList'
 import PlantItem from './PlantItem'
 import '../styles/ShoppingList.css'
 
